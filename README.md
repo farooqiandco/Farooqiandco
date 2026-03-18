@@ -1,16 +1,17 @@
-## Hi there 👋
+# Farooqi and Co – Dubai Tax, Property & Business Setup
 
-<!--
-**farooqiandco/Farooqiandco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Farooqi & Co helps Pakistani investors and entrepreneurs unlock opportunities in Dubai and UAE.
 
-Here are some ideas to get you started:
+## Our Services
+- **Dubai Tax Consultants** – Optimize your taxes & ensure compliance
+- **Property Investment in Dubai** – Maximize returns on prime real estate
+- **Business Setup in UAE** – Hassle-free company formation & licensing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Learn more: [farooqico.com](https://farooqico.com/)
+
+## Why Choose Us?
+✅ Personalized consultation  
+✅ Transparent processes  
+✅ End-to-end support  
+
+Contact us today and start your Dubai journey!
